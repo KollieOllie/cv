@@ -1,0 +1,162 @@
+* {
+  /*сбрасываем настройки по умолчанию к 0 */
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; /*чтобы контент не растягивал контейнер*/
+}
+body {
+  background: #f5f7fa; /*фон страницы*/
+  padding: 20px;
+  font-family: 'Montserrat', sans-serif; /*фон шрифта*/
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.grande {
+  background: white;
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+.sitebar {
+  background: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.img {
+  width: 370px;
+}
+.aboute-me {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+.contacts {
+  margin-left: 40px;
+  margin-top: 60px;
+}
+
+.contacts-tit {
+  font-size: 22px; /*размер*/
+  font-weight: 700; /*жирность*/
+  line-height: 24px; /*высота*/
+  color: #ffffff; /*цвет*/
+  margin-bottom: 10px;
+}
+
+.ccee {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+  color: #58606b;
+}
+.abc {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+  color: #c4c7cb;
+  margin-right: 10px; /*отступ от инфы (букв) внешний*/
+}
+.ts {
+  font-size: 22px; /*размер*/
+  font-weight: 700; /*жирность*/
+  line-height: 24px; /*высота*/
+  color: #f6f7f7;
+  margin-bottom: 10px;
+}
+
+.tsa {
+  margin-left: 40px;
+  margin-top: 54px;
+}
+.tso {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+  color: #ff6b08;
+  margin-left: 15px; /*отступ от инфы (букв) внешний*/
+}
+.tso-1 {
+  color: #c4c7cb;
+}
+.abm {
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 24px; /*  высота именно шрифта*/
+}
+.name-o {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 80px;
+}
+.discription {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+  color: #7d7d7d;
+}
+.abm-one {
+  margin-bottom: 60px;
+}
+.pro {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+.link {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+  color: #7c7c7c;
+}
+.strong {
+  font-weight: 700;
+  margin-left: 17px;
+}
+.links {
+  font-weight: 100;
+  line-height: 5px;
+  color: #7c7c7c;
+  font-size: 10px;
+  /* width: 318px;
+  height: 1px;
+  border-bottom: 1px dotted red;
+  white-space: pre-wrap;*/
+}
+.projects-one {
+  margin-bottom: 52px;
+}
+.freelance {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 8px;
+}
+.prof-e {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ff6905;
+}
+.date {
+  color: #a8a8a8;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 24px;
+  margin-bottom: 14px;
+}
+.li-t {
+  color: #7c7c7c;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+  margin-bottom: 24px;
+}
+.col-c {
+  color: black;
+}
